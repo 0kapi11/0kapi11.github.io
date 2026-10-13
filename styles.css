@@ -1,0 +1,51 @@
+.title {
+    padding:50px; /*makes it so there is 50px of space around the element*/
+    color:blue; 
+    background-color:#fff70a;
+    font-size:50px;                                         
+    font-family: 'Courier New', Courier, monospace;
+    display:block;
+}
+
+.paragraph {
+    padding:30px;
+    font-weight: bold;       
+    background-color:#FF299C;  
+    border:dotted;
+    width: auto;
+    height: auto;
+    margin: 40px;
+}
+
+.instructions /*selects class of instructions*/ {
+    background-color: #3A4454;
+}
+.instruction /*selects class of instruction*/{
+    background-color: #B8E0D2;
+}
+.instructions, .instruction /*selects both classes of instruction and instructions*/{
+    padding:10px;
+    color:white;
+}
+
+#recipelist{
+    padding:30px;
+    font-weight: bold;       
+    background-color: #FF299C;  
+    border:dotted;
+    width: auto;
+    height: auto;
+    margin: 40px;
+}
+
+#title3{
+    padding:50px; /*makes it so there is 50px of space around the element*/
+    color:whitesmoke; 
+    background-color:blue;
+    color:#fff70a;
+    font-size:50px;  
+    border: dashed;                                 
+    font-family: 'Courier New', Courier, monospace;
+    display:block;
+}
+
